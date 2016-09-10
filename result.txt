@@ -1,0 +1,20 @@
+for 5 iterations 1 hiden layer of 14 neurons
+('Average error:', 0.010862757595596319)
+('Max error:', 0.019502112464277573, 'Median error:', 0.010748214419532625)
+time taken is  11.3925850391  seconds
+
+for 10 iterations 2 hidden layers of size 8 each
+( 'Max error:',0.012040897764886588, 'Median error:', 0.0099847887367239697)
+
+for 10 iterations when hidden layer size was not given explicitly
+('Average error:', 0.015441306712606765)
+('Max error:', 0.10490551627404913, 'Median error:', 0.013708827240598418)
+
+for 10 iterations when 2 hidden layers of size 14 each
+('Average error:', 0.010344465366499529)
+('Max error:', 0.01444483862678312, 'Median error:', 0.010417146336568867)
+
+
+for 1000 iterations 2 hidden layers of size 8 each
+('Average error:', 0.0096312950494079012)
+('Max error:', 0.010859008779588952, 'Median error:', 0.0096915349769250564)
